@@ -1,4 +1,4 @@
-# R_Code_for_Data_Visualization
+# R Code for Data Visualization
 
 R code for creating figures with ggplot2 and other packages
 
